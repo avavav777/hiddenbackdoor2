@@ -1,5 +1,7 @@
 Server/builddir/
 Client/builddir/
+Shell/builddir
 Server/build/
 Client/build/
+Shell/build
 *.o
