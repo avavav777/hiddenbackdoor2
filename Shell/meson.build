@@ -4,7 +4,7 @@ project(
     version : '1.0.0',
     license : 'GPLv3',
     default_options : [
-      'c_std=c99',
+      'c_std=c11',
       'buildtype=release',
       'default_library=shared',
       'optimization=3',

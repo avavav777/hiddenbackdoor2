@@ -6,7 +6,7 @@ int main() {
     int status;
     char output[MAX];
 
-    fp = popen("echo test", "r");
+    fp = popen("echo litmode", "r");
     while (fgets(output, MAX, fp) != NULL)
         printf("%s", output);
     status = pclose(fp);
