@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/krissemicolon/Projects/hiddenbackdoor2/Server/build",
+    "command": "ccache cc -Ibdserver.p -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O3 -Wall '-DVERSION=\"1.0.0\"' -MD -MQ bdserver.p/src_main.c.o -MF bdserver.p/src_main.c.o.d -o bdserver.p/src_main.c.o -c ../src/main.c",
+    "file": "../src/main.c",
+    "output": "bdserver.p/src_main.c.o"
+  }
+]
