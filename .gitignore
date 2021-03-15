@@ -1,3 +1,5 @@
-builddir/
-build/
+Server/builddir/
+Client/builddir/
+Server/build/
+Client/build/
 *.o
